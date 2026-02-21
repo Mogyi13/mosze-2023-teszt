@@ -28,5 +28,6 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
 
     delete[] b; // Memoria felszabaditva
+    std::cout << "valami" << std::endl;
     return 0;
 }
